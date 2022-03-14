@@ -71,7 +71,8 @@ body{
     color: #293251;
     font-size: 4em;
     text-align: center;
-    cursor: pointer;
+    cursor: pointer; 
+    /* to point a mouse on the div */
 }
 
 .temperature-value p:hover{
